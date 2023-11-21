@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Merienda', cursive;
+}
+
+/* Navbar Styles */
+.navbar  {
+    background-color: #C4DFAA!important;
+}
+
+.navbar .navbar-brand{
+    font-weight: 900;
+}
+
+.navbar .nav-link {
+    font-weight: 900;
+    color: #131313;
+    text-transform: uppercase;
+}
+
+
+/* Hero styles */
+.hero .card-title{
+    font-weight:800;
+    margin-top: 150px;
+
+}
+.hero .lead{
+    font-weight:700;
+}
+
+/* menu styles */
+.menu{
+    /* background-color: #C4DFAA!important; */
+    background-image: url('asetpgf/bgmenu5.jpeg');
+    background-size: cover;
+   
+} 
+
+.menu .section-title{
+    font-weight: 900;
+    color: #131313;
+}
+
+.menu .section-paragraf{
+    font-weight: 700;
+    color: #131313;
+}
+
+.menu .card {
+    /* background-color: #131313; */
+    color: #fff;
+}
+
+.menu .card img{
+    /* border: 2px solid #fff; */
+}
+
+.menu .card .card-title {
+    margin-top: 20px;
+    font-weight:700;
+    color:#131313
+}
+
+.menu .card .card-text{
+    color:#131313;
+    font-weight:500;
+
+}
+
+.menu .card .btn{
+    font-weight: 700;
+}
+
+
+/* Testimoni Styles */
+.testimoni {
+    background-image: url('asetpgf/testimonibg.jpeg');
+    background-size: cover;
+    height:450px;
+}
+
+.testimoni img{
+    margin-top: 50px;
+    width: 130px;
+}
+
+.testimoni .blockquote {
+    font-weight: 800;
+}
+
+.testimoni .blockquote-footer {
+    font-weight:700;
+    font-size: 20px;
+}
+
+
+/* Footer Styles */
+footer {
+    background-color:  #C4DFAA;
+}
